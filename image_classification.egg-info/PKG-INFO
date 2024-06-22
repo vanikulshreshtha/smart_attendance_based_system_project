@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: image_classification
+Version: 0.0.1
+Author: vani
+Author-email: vanikulshrestha@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: Flask
+Requires-Dist: opencv-python
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
+Requires-Dist: keras
+Requires-Dist: streamlit
+Requires-Dist: pywin32

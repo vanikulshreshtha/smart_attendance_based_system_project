@@ -1,0 +1,10 @@
+pandas
+numpy
+Flask
+opencv-python
+matplotlib
+scikit-learn
+tensorflow
+keras
+streamlit
+pywin32
